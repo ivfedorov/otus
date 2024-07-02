@@ -1,1 +1,2 @@
 # otus
+# Authors: Belorusov Nikolay
